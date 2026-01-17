@@ -3,6 +3,4 @@
 My Information
 This is about My Personal Information.
 
-
-Hi Hello
-
+created index.html file
